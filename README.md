@@ -10,7 +10,7 @@
 ## Archivos de impresión
 [Capa svg 1](https://github.com/Sergiomirobernabeu/retrat_sergio/blob/main/capa%202%20sergio.svg)
 
-[Capa svg 2](capa 2 sergio.svg)
+[Capa svg 2](https://github.com/Sergiomirobernabeu/retrat_sergio/blob/main/capa%202%20sergio.svg)
 
 ## Artes finales
 [Impresión final 1](impresion_final_1.heic)
