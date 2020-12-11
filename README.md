@@ -1,5 +1,5 @@
 # retrat_sergio
 ## Boceto inical
-## Proces
+## Proceso
 ## Archivos de impresión
 ## Artes finales
