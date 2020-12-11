@@ -8,7 +8,7 @@
 
 
 ## Archivos de impresión
-[Capa svg 1](https://github.com/Sergiomirobernabeu/retrat_sergio/blob/main/capa%202%20sergio.svg)
+[Capa svg 1](https://github.com/Sergiomirobernabeu/retrat_sergio/blob/main/capa%201%20sergio.svg)
 
 [Capa svg 2](https://github.com/Sergiomirobernabeu/retrat_sergio/blob/main/capa%202%20sergio.svg)
 
