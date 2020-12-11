@@ -1,6 +1,6 @@
 # retrat_sergio
 ## Boceto inical
-[Primeros bocetos a lápiz] (boceto_inical.HEIC)
+[Primeros bocetos a lápiz](boceto_inical.HEIC)
 
 ## Proceso
 ## Archivos de impresión
